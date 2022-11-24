@@ -10,7 +10,7 @@ I'am a `front-end developer`, and I keep studying to become a `Fullstack` develo
 - 🤔 I’m searching for jobs to work as a `front-end Developer`.
 - 💬 Ask me about everything in the area, I'll search and help you.
 - 📫 How to reach me:
-     - Email: henrique.ganz@gmail.com
-     - Linkedin:https://www.linkedin.com/in/henrique-ganz-85b490179/
+     - Email: (henrique.ganz@gmail.com)
+     - Linkedin: (https://www.linkedin.com/in/henrique-ganz-85b490179/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like Unicorns 🦄.
