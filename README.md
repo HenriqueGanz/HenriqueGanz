@@ -2,7 +2,7 @@
 
 I'am a `front-end developer`, and I keep studying to become a `Fullstack` developer by Rocketseat [www.rocketseat.com.br].
 
-- 🔭 I’m currently working on lots of projects 
+- 🔭 Nowadays I’m working on lots of projects 
 - 🌱 Technologies I’m currently learning:
       `Node.js` and `Express`
       `Insomnia` and `SQLite`
