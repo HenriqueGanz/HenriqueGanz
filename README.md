@@ -1,13 +1,16 @@
 ### Hi there, i'am Henrique 👋
 
-I'am a ´front-end developer´, and I keep studying to become a ´Fullstack´ developer by Rocketseat [www.rocketseat.com.br].
+I'am a `front-end developer`, and I keep studying to become a `Fullstack` developer by Rocketseat [www.rocketseat.com.br].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on lots of projects 
+- 🌱 Technologies I’m currently learning:
+      `Node.js` and `Express`
+      `Insomnia` and `SQLite`
+      `Bekeeper Studio` and `Knex.js` 
+- 🤔 I’m searching for jobs to work as a `front-end Developer`.
+- 💬 Ask me about everything in the area, i search and help you.
+- 📫 How to reach me:
+      Email: henrique.ganz@gmail.com
+      Linkedin: www.linkedin.com/henrique-ganz
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I really like Unicorns 🦄.
