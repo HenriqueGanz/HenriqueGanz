@@ -11,6 +11,6 @@ I'am a `front-end developer`, and I keep studying to become a `Fullstack` develo
 - 💬 Ask me about everything in the area, I'll search and help you.
 - 📫 How to reach me:
      - Email: henrique.ganz@gmail.com
-     - Linkedin: www.linkedin.com/henrique-ganz-85b490179/
+     - Linkedin:https://www.linkedin.com/in/henrique-ganz-85b490179/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like Unicorns 🦄.
