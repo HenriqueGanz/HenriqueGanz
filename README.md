@@ -4,6 +4,7 @@ I'am a `front-end developer`, and I keep studying to become a `Fullstack` develo
 
 - 🔭 Nowadays I’m working on lots of projects 
 - 🌱 Technologies I’m currently learning:
+     - `React.js`
      - `Node.js` and `Express`
      - `Insomnia` and `SQLite`
      - `Bekeeper Studio` and `Knex.js` 
