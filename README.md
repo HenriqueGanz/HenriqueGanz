@@ -11,8 +11,8 @@ I'am a `front-end developer`, and I keep studying to become a `Fullstack` develo
      - Coding with `TypeScript` `C#` `Python`
      In Gamedev
           - `Godot Engine`
-          - `GdScript` and `C#`
-- 🤔 I’m searching for jobs to work as a `front-end Developer`.
+          - `GdScript`
+- 🤔 I’m searching for jobs to work as a `Web Developer`.
 - 💬 Ask me about everything in the area, I'll search and help you.
 - 📫 How to reach me:
      - Email: (henrique.ganz@gmail.com)
