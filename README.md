@@ -9,7 +9,7 @@ I'am a `front-end developer`, and I keep studying to become a `Fullstack` develo
      - `Node.js`
      - `.ASPNET`
      - Coding with `TypeScript` `C#` `Python`
-     In Gamedev
+     - In Gamedev
           - `Godot Engine`
           - `GdScript`
 - 🤔 I’m searching for jobs to work as a `Web Developer`.
