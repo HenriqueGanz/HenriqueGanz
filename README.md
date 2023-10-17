@@ -10,6 +10,7 @@ I'am a `front-end developer`, and I keep studying to become a `Fullstack` develo
      - `.ASPNET`
      - Coding with `TypeScript` `C#` `Python`
      - In Gamedev
+          - `Unity`
           - `Godot Engine`
           - `GdScript`
 - 🤔 I’m searching for jobs to work as a `Web Developer`.
