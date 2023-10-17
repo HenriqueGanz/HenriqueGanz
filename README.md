@@ -1,6 +1,6 @@
 ### Hi there, I'am Henrique 👋
 
-I'am a `front-end developer`, and I keep studying to become a `Fullstack` developer by Rocketseat [www.rocketseat.com.br].
+I'am a `front-end developer`, and I keep studying to become a `Fullstack` developer.
 
 - 🔭 Nowadays I’m working on lots of projects 
 - 🌱 Technologies I’m currently learning:
