@@ -5,6 +5,7 @@ I'am a `full-stack developer`, and I keep studying to to improve my skills more 
 - 🔭 Nowadays I’m working on lots of projects 
 - 🌱 Technologies I’m currently learning, see projects in my repositories:
      - `Angular`
+     - `Vue.js`
      - `React.js`
      - `Node.js`
      - `.ASPNET`
