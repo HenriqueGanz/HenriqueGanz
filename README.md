@@ -1,18 +1,14 @@
 ### Hi there, I'am Henrique 👋
 
-I'am a `front-end developer`, and I keep studying to become a `Fullstack` developer.
+I'am a `full-stack developer`, and I keep studying to to improve my skills more and more.
 
 - 🔭 Nowadays I’m working on lots of projects 
-- 🌱 Technologies I’m currently learning:
+- 🌱 Technologies I’m currently learning, see projects in my repositories:
      - `Angular`
      - `React.js`
      - `Node.js`
      - `.ASPNET`
      - Coding with `TypeScript` `C#` `Python`
-     - In Gamedev
-          - `Unity`
-          - `Godot Engine`
-          - `GdScript`
 - 🤔 I’m searching for jobs to work as a `Web Developer`.
 - 💬 Ask me about everything in the area, I'll search and help you.
 - 📫 How to reach me:
