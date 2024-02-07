@@ -4,13 +4,12 @@ I'am a `full-stack developer`, and I keep studying to to improve my skills more 
 
 - 🔭 Nowadays I’m working on lots of projects 
 - 🌱 Technologies I’m currently learning, see projects in my repositories:
-     - `Angular`
-     - `Vue.js`
+     - `Laravel`
      - `React.js`
+     - `React Native`
      - `Node.js`
-     - `.ASPNET`
-     - Coding with `TypeScript` `C#` `Python`
-- 🤔 I’m searching for jobs to work as a `Web Developer`.
+     - `Python`
+     - Coding with `Php` `Javascript` `Python`
 - 💬 Ask me about everything in the area, I'll search and help you.
 - 📫 How to reach me:
      - Email: (henrique.ganz@gmail.com)
