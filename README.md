@@ -14,5 +14,4 @@ I'am a `full-stack developer`, and I keep studying to to improve my skills more 
 - 📫 How to reach me:
      - Email: (henrique.ganz@gmail.com)
      - Linkedin: (https://www.linkedin.com/in/henrique-ganz-85b490179/)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like Unicorns 🦄.
