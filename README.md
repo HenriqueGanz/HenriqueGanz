@@ -1,4 +1,4 @@
-### Hi there, I'am Henrique 👋
+### Hi there, I am Henrique 👋
 
 I am a `full-stack developer`, and I keep studying to to improve my skills more and more.
 
